@@ -5,6 +5,7 @@
 **Name:** THE HUB  
 **Address:** 235-20 Hillside Ave., Queens, NY 11427  
 **Order Type:** 🏃‍♂️ Pick-up  
+**Order Time:** 8:50 PM 10/29/2025
 
 ---
 
@@ -29,7 +30,5 @@ Queens, NY 11427
 
 ### 🙌 Thank You!
 We appreciate your business — see you soon! 😋  
-
----
 
 <sub>_This is a sample receipt created for demonstration purposes._</sub>
