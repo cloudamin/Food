@@ -10,13 +10,16 @@
 ---
 
 ### 🧾 Your Order
-| Qty | Item           | Price  |
-|:---:|:----------------|-------:|
-| 2   | 🍔 Smash Burger |        |
-| 1   | 🍟 Loaded Fries |        |
-| 1   | 🥤 Dr Pepper    |        |
+| Qty | Item           | Price Each | Subtotal  |
+|:---:|:----------------|------------:|----------:|
+| 2   | 🍔 Smash Burger | $14.00     | $28.00    |
+| 1   | 🍟 Loaded Fries | $10.00     | $10.00    |
+| 1   | 🥤 Dr Pepper    | $2.00      | $2.00     |
+| 1   | 🍪 Cookie       | $4.11      | $4.11     |
 
-**💰 Total:** `$48.80`  
+**🧾 Subtotal:** `$44.11`  
+**💸 NYC Tax (8.875%)**: `$3.91`  
+**💰 Total:** `$48.02`  
 **💵 Payment Method:** Pay in person (Cash)
 
 ---
